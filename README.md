@@ -1,1 +1,1 @@
-# The source code will be available after the paper is accepted!
+# The code of the Superpixel Pooling-Unpooling operation is released.
